@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, welcome to my website!"
+title: "Hi there 👋, welcome to my website!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -39,5 +39,5 @@ table, tr, td {
 <tr><td><b> December, 2019:</b> </td> <td> I have been selected to give a technical talk on "CyberAWARE Software Engineering" at <a href="https://www.bracu.ac.bd">BRAC University</a> on Mon, Dec. 9 and <a href="https://www.aiub.edu/">American International University-Bangladesh (AIUB)</a> on Wed, Dec. 11.</td></tr>
 <tr><td><b> September, 2019:</b> </td> <td> I have been selected to present a talk on "Encryption and Ciphers Introduction" to mainly Computer Science students at Tennessee Tech University on November 21, 2019. </td></tr>
 <tr><td><b> June, 2019:</b> </td> <td> I have volunteered at the GenCyber Program at Tennessee Tech University, a week long summer cybersecurity camp for students which has been jointly funded by the National Security Agency (NSA) and the National Science Foundation (NSF). <a href="https://www.linkedin.com/posts/mdahsanayub_cybersecurity-cybersecuritytraining-workforceofthefuture-activity-6550530573415305216-l0bO">[LinkedIn Post]</a> </td></tr>
-<tr><td><b> June, 2019:</b> </td> <td> [June, 2019] I have completed an online certification course on Machine Learning using Python and R, offered by <a href="https://www.udemy.com/">Udemy</a>. <a href="https://www.udemy.com/certificate/UC-XUH6XNNI/">[Certification]</a>. </td></tr>
+<tr><td><b> June, 2019:</b> </td> <td> I have completed an online certification course on Machine Learning using Python and R, offered by <a href="https://www.udemy.com/">Udemy</a>. <a href="https://www.udemy.com/certificate/UC-XUH6XNNI/">[Certification]</a></td></tr>
 </table>
