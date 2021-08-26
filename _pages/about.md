@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Hi there 👋, welcome to my website!"
+title: "Welcome to my website!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-My name is Ahsan (pronouns: he / him / his). I am a Ph.D. student in the [Department of Computer Science](https://www.tntech.edu/engineering/programs/csc/index.php) at [Tennessee Tech University](https://www.tntech.edu/) with an emphasis on Cybersecurity and Data Science. I have been working at [Cybersecurity Education, Research & Outreach Center (CEROC)](https://www.tntech.edu/ceroc/) as a Graduate Research Assistant under the supervision of [Prof. Dr. Ambareen Siraj](https://www.linkedin.com/in/ambareensiraj/).
+Hi, there 👋! My name is Ahsan (pronouns: he / him / his). I am a Ph.D. student in the [Department of Computer Science](https://www.tntech.edu/engineering/programs/csc/index.php) at [Tennessee Tech University](https://www.tntech.edu/) with an emphasis on Cybersecurity and Data Science. I have been working at [Cybersecurity Education, Research & Outreach Center (CEROC)](https://www.tntech.edu/ceroc/) as a Graduate Research Assistant under the supervision of [Prof. Dr. Ambareen Siraj](https://www.linkedin.com/in/ambareensiraj/).
 
 At CEROC, I mainly contribute experiential research in both static and dynamic malware analysis for ransomware to propose multi-layered
 endpoint protection by incorporating Data Science, Machine Learning, and Reverse Engineering techniques. Additionally, I collaborate with the external security researchers in industry, U.S. national labs, and other universities to initiate as well as review the scope of research, perform experimentations, observe its progress, and analyze the empirical findings.
