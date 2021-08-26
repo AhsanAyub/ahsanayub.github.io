@@ -82,11 +82,13 @@ analytics:
 author:
   name             : "Ahsan Ayub"
   avatar           : "profile.png"
-  bio              : "Computer Science Ph.D. Student & Research Assistant at Tennessee Tech University"
+  bio              : "Computer Science Ph.D. Student & Research Assistant at Tennessee Tech University."
   location         : "Tennessee, USA"
+  linkedin         : "mdahsanayub/"
+  googlescholar    : "https://scholar.google.com/citations?user=xRr78bIAAAAJ&hl=en"
+  twitter          : "MdAhsanAyub"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=xRr78bIAAAAJ&hl=en"
   email            : "mayub42@tntech.edu"
   researchgate     : "https://www.researchgate.net/profile/Ahsan-Ayub-6"
   uri              :
@@ -102,14 +104,13 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "mdahsanayub/"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "MdAhsanAyub"
+  
   vine             :
   weibo            :
   xing             :
