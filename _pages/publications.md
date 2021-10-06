@@ -7,7 +7,9 @@ author_profile: true
 ---
 
 **2021**
-* [[PDF]](../files//MAA_SS_AS_PT_Domain_Generating_Algorithm_Based_Malicious_Domains_Detection.pdf) [[Source]](https://github.com/AhsanAyub/malicious_domains_dga_detection) _[M. A. Ayub](https://scholar.google.com/citations?user=xRr78bIAAAAJ)_, [S. Smith](https://www.linkedin.com/in/steven-smith-79bb94140), [A. Siraj](https://scholar.google.com/citations?user=DcXiy0AAAAAJ), and [P. Tinker](https://www.linkedin.com/in/pauljtinker/), "Domain Generating Algorithm based Malicious Domains Detection," 2021 8th IEEE International Conference on Cyber Security and Cloud Computing (CSCloud)/2021 7th IEEE International Conference on Edge Computing and Scalable Cloud (EdgeCom), Washington DC, USA, 2021, pp. 77--82.
+* [[PDF]](../files/Authors_Copy_Static_Ransomware_Analysis.pdf) [[Source]](https://github.com/AhsanAyub/static_ransomware_analysis) _[M. A. Ayub](https://scholar.google.com/citations?user=xRr78bIAAAAJ)_ and [A. Siraj](https://scholar.google.com/citations?user=DcXiy0AAAAAJ), "Similarity Analysis of Ransomware based on Portable Executable (PE) File Metadata," 2021 IEEE Symposium Series on Computational Intelligence (SSCI), Orlando, FL, USA, 2021. To Appear.
+
+* [[PDF]](../files/MAA_SS_AS_PT_Domain_Generating_Algorithm_Based_Malicious_Domains_Detection.pdf) [[Source]](https://github.com/AhsanAyub/malicious_domains_dga_detection) _[M. A. Ayub](https://scholar.google.com/citations?user=xRr78bIAAAAJ)_, [S. Smith](https://www.linkedin.com/in/steven-smith-79bb94140), [A. Siraj](https://scholar.google.com/citations?user=DcXiy0AAAAAJ), and [P. Tinker](https://www.linkedin.com/in/pauljtinker/), "Domain Generating Algorithm based Malicious Domains Detection," 2021 8th IEEE International Conference on Cyber Security and Cloud Computing (CSCloud)/2021 7th IEEE International Conference on Edge Computing and Scalable Cloud (EdgeCom), Washington DC, USA, 2021, pp. 77--82.
 
 ---
 
