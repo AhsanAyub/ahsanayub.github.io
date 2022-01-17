@@ -12,8 +12,6 @@ Hi, there 👋! My name is Ahsan (pronouns: he / him / his). I am a Ph.D. studen
 At CEROC, I mainly contribute to the experiential research of both static and dynamic malware analysis for ransomware to propose multi-layered
 endpoint protection by incorporating Data Science, Machine Learning, and Reverse Engineering techniques. Additionally, I collaborate with the external security researchers in industry, U.S. national labs, and other universities to initiate as well as review the scope of research, perform experimentations, observe its progress, and analyze the empirical findings.
 
-I instruct CSC 1300: Introduction to Problem Solving and Programming in C++ at [Tennessee Tech University](https://www.tntech.edu/). I am responsible to develop the class materials, the exam/quiz questions, and the programming assignments/challenges. I also manage the online quizzes and grading of the course.
-
 Aside from work, I enjoy learning industry standards of (Secure) Software Development as well as state-of-the-art (academia and industry) practices of Data Science and Machine Learning, participating competitive in the programming challenges primarily under the category of Algorithms and Data Structure using C / C++, and involving in outreach / (voluntary) leadership activities.
 
 
@@ -33,6 +31,8 @@ table, tr, td {
        <col span="1" style="width: 88%;">
 	</colgroup>
 
+<tr><td> <b> Jan 2022: </b> </td> <td> In the spirit of open science, as well as with the department's approval, I have shared the developed contents of the course, Introduction to Problem Solving and Programming in C/C++, on both my <a href="https://ahsanayub.github.io/teaching/">[website] and <a href="https://github.com/AhsanAyub/tntech_csc_1300_fall_2021">[Github].
+. <a href="https://github.com/AhsanAyub/static_ransomware_analysis">[GitHub Repository]</a></td></tr>
 <tr><td> <b> Oct 2021: </b> </td> <td> I'm happy to share that one of our research works, entitled "Similarity Analysis of Ransomware based on Portable Executable (PE) File Metadata," has been accepted to present at the 2021 IEEE Symposium Series on Computational Intelligence conference. <a href="https://github.com/AhsanAyub/static_ransomware_analysis">[GitHub Repository]</a></td></tr>
 <tr><td> <b> Aug 2021: </b> </td> <td> I have been selected to teach the "Introduction to Problem Solving and Programming in C++" course (a class of 75+ Computer Science Undergraduate Students) this Fall as a Graduate Teaching Associate for the Department of Computer Science, Tennessee Tech University. <a href="https://www.linkedin.com/posts/mdahsanayub_computerscience-teaching-problemsolving-activity-6837125276728741888-4B38/">[LinkedIn Post]</a></td></tr>
 <tr><td> <b> July 2021: </b> </td> <td> I had been a part of the NSF AFJROTC Summer Cyber Academy during the months of June and July (6 weeks) as one of the instructors. We virtually hosted 16 cadets across the nation to teach them the Cybersecurity Essentials at Tennessee Technological University. <a href="https://www.linkedin.com/posts/mdahsanayub_im-happy-to-share-that-i-had-been-a-part-activity-6824483338808647680-XFhF/">[LinkedIn Post]</a></td></tr>
