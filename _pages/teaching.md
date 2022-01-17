@@ -6,7 +6,8 @@ urlcolor: blue
 author_profile: true
 ---
 
-**[Introduction to Problem Solving and Programming in C/C+](https://github.com/AhsanAyub/tntech_csc_1300_fall_2021)+**
+**[Introduction to Problem Solving and Programming in C/C++](https://github.com/AhsanAyub/tntech_csc_1300_fall_2021)**
+
 I taught this course in the Fall 2021 semester at the [Department of Computer Sciecne](https://www.tntech.edu/engineering/programs/csc/index.php), [Tennessee Tech University](https://www.tntech.edu/). The developed content of the course is as follows:
 
 * [Intro to C++](https://github.com/AhsanAyub/tntech_csc_1300_fall_2021/tree/main/1_intro_to_c%2B%2B)
