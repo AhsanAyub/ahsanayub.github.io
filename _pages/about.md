@@ -7,13 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, there 👋! My name is Ahsan (pronouns: he / him / his). I am a Ph.D. Candidate in the [Department of Computer Science](https://www.tntech.edu/engineering/programs/csc/index.php) at [Tennessee Tech University](https://www.tntech.edu/) with an emphasis on Cybersecurity and Data Science. I have been working at [Cybersecurity Education, Research & Outreach Center (CEROC)](https://www.tntech.edu/ceroc/) as a Graduate Research Assistant under the supervision of [Prof. Dr. Ambareen Siraj](https://www.linkedin.com/in/ambareensiraj/). In addition to my research work, I have been appointed at [AllianceBernstein](https://www.alliancebernstein.com), a global investment management firm, as a Security Engineer (Intern).
+Hi, there 👋! My name is Ahsan (pronouns: he / him / his). I am a Ph.D. Candidate in the [Department of Computer Science](https://www.tntech.edu/engineering/programs/csc/index.php) at [Tennessee Tech University](https://www.tntech.edu/) with an emphasis on Cybersecurity and Data Science. I have been working at [Cybersecurity Education, Research & Outreach Center (CEROC)](https://www.tntech.edu/ceroc/) as a Graduate Research Assistant under the supervision of [Prof. Dr. Ambareen Siraj](https://www.linkedin.com/in/ambareensiraj/). I had been appointed at [AllianceBernstein](https://www.alliancebernstein.com), a global investment management firm, as a Security Engineer (Intern) from January, 2022 to December, 2022.
 
-At CEROC, I mainly contribute to the experiential research of both static and dynamic malware analysis for ransomware to propose multi-layered
-endpoint protection by incorporating Data Science, Machine Learning, and Reverse Engineering techniques. Additionally, I collaborate with the external security researchers in industry, U.S. national labs, and other universities to initiate as well as review the scope of research, perform experimentations, observe its progress, and analyze the empirical findings.
+At CEROC, I mainly contribute to the experimental research of static and dynamic ransomware analysis to develop multi-layered endpoint protection for prompt and robust detection on Windows environment by incorporating Machine Learning and Reverse Engineering techniques. I have published 6 peer-reviewed scholarly articles in ransomware, cryptography, adversarial ML, DGA, and network covert communication so far.
 
-Aside from work, I enjoy learning industry standards of (Secure) Software Development as well as state-of-the-art (academia and industry) practices of Data Science and Machine Learning, participating competitive in the programming challenges primarily under the category of Algorithms and Data Structure using C / C++, and involving in outreach / (voluntary) leadership activities.
-
+Aside from work, I enjoy participating in the competitive programming challenges and involving in outreach / (voluntary) leadership activities.
 
 ---
 
