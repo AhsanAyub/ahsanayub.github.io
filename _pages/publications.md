@@ -6,6 +6,11 @@ urlcolor: blue
 author_profile: true
 ---
 
+*2023**
+* [[PDF]](../files/rwarmor_authors_copy.pdf) _[M. A. Ayub](https://scholar.google.com/citations?user=xRr78bIAAAAJ)_, [A. Siraj](https://scholar.google.com/citations?user=DcXiy0AAAAAJ), [B. Filar]([https://scholar.google.com/citations?user=DcXiy0AAAAAJ](https://scholar.google.com/citations?user=OLcliSsAAAAJ&hl=en)), and [M. Gupta](https://scholar.google.com/citations?user=acSa1DYAAAAJ&hl=en), "RWArmor: a static-informed dynamic analysis approach for early detection of cryptographic windows ransomware," International Journal of Information Security (2023), pp. 1-24.
+
+---
+
 **2021**
 * [[PDF]](../files/Authors_Copy_Static_Ransomware_Analysis.pdf) [[Slide]](../files/IEEE_SSCI_2021_Presentation.pdf) [[Source]](https://github.com/AhsanAyub/static_ransomware_analysis) _[M. A. Ayub](https://scholar.google.com/citations?user=xRr78bIAAAAJ)_ and [A. Siraj](https://scholar.google.com/citations?user=DcXiy0AAAAAJ), "Similarity Analysis of Ransomware based on Portable Executable (PE) File Metadata," 2021 IEEE Symposium Series on Computational Intelligence (SSCI), Orlando, FL, USA, 2021.
 
