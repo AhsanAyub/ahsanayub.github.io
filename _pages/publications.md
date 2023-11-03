@@ -9,6 +9,8 @@ author_profile: true
 **2023**
 * [[PDF]](../files/rwarmor_authors_copy.pdf) _[M. A. Ayub](https://scholar.google.com/citations?user=xRr78bIAAAAJ)_, [A. Siraj](https://scholar.google.com/citations?user=DcXiy0AAAAAJ), [B. Filar](https://scholar.google.com/citations?user=OLcliSsAAAAJ&hl=en), and [M. Gupta](https://scholar.google.com/citations?user=acSa1DYAAAAJ&hl=en), "RWArmor: a static-informed dynamic analysis approach for early detection of cryptographic windows ransomware," International Journal of Information Security (2023), pp. 1-24.
 
+* [[PDF]](../files/ayub_et_al_2023_understanding.pdf) [[Slide]](ayub_et_al_2023_understanding_presentation.pdf) _[M. A. Ayub](https://scholar.google.com/citations?user=xRr78bIAAAAJ)_ and [A. Siraj](https://scholar.google.com/citations?user=DcXiy0AAAAAJ), "Understanding the Behavior of Ransomware: An I/O Request Packet (IRP) Driven Study on Ransomware Detection against Execution Time," 2023 IEEE 9th International Conference on Collaboration and Internet Computing (CIC), Atlanta, GA, USA, 2023, pp. 62--71.
+
 ---
 
 **2021**
