@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, there 👋! My name is Ahsan (pronouns: he / him). I earned Ph.D. from the [Department of Computer Science](https://www.tntech.edu/engineering/programs/csc/index.php) at [Tennessee Tech University](https://www.tntech.edu/) with an emphasis on Cybersecurity and Data Science. Currently, I am working at [Vanderbilt University Medical Center (VUMC)](https://www.vumc.org/main/home) as a Security Engineer. I hold 8+ years of combined industry and research experience in the fields of Software Development, Cybersecurity, and AI. I am interested in applying AI to solve real-world cyber problems, investigating security concerns of AI itself, and cultivating proficiency in defensive and offensive security.
 
-I have published 10 peer-reviewed scholarly articles in ransomware, malware, cryptography, adversarial ML, DGA, and network covert communication. Additionally, I participate in professional services by providing peer reviews for conference manuscripts.****
+I have published 10 peer-reviewed scholarly articles in ransomware, malware, cryptography, adversarial ML, DGA, and network covert communication. Additionally, I participate in professional services by providing peer reviews for conference manuscripts.
 
 ---
 
