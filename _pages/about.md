@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, there 👋! My name is Ahsan (pronouns: he / him / his). I earned Ph.D. from the [Department of Computer Science](https://www.tntech.edu/engineering/programs/csc/index.php) at [Tennessee Tech University](https://www.tntech.edu/) with an emphasis on Cybersecurity and Data Science. Throughout my doctoral research, I contributed to the experimental research of static and dynamic ransomware analysis to develop multi-layered endpoint protection for prompt and robust detection on Windows environment by incorporating Machine Learning and Reverse Engineering techniques. I published 9 peer-reviewed scholarly articles in ransomware, cryptography, adversarial ML, DGA, and network covert communication so far.
+Hi, there 👋! My name is Ahsan (pronouns: he / him). I earned Ph.D. from the [Department of Computer Science](https://www.tntech.edu/engineering/programs/csc/index.php) at [Tennessee Tech University](https://www.tntech.edu/) with an emphasis on Cybersecurity and Data Science. Currently, I am working at [Vanderbilt University Medical Center (VUMC)](https://www.vumc.org/main/home) as a Security Engineer. I hold 8+ years of combined industry and research experience in the fields of Software Development, Cybersecurity, and AI. I am interested in applying AI to solve real-world cyber problems, investigating security concerns of AI itself, and cultivating proficiency in defensive and offensive security.
 
-Aside from research, I enjoy learning industry standards of (Secure) Software Development as well as state-of-the-art (academia and industry) practices of Data Science and Machine Learning, participating competitive programming challenges primarily under the category of Algorithm and Data Structure using C / C++, and involving in outreach / (voluntary) leadership activities.
+I have published 10 peer-reviewed scholarly articles in ransomware, malware, cryptography, adversarial ML, DGA, and network covert communication. Additionally, I participate in professional services by providing peer reviews for conference manuscripts.****
 
 ---
 
