@@ -6,6 +6,11 @@ urlcolor: blue
 author_profile: true
 ---
 
+**2024**
+* [[PDF]](https://arxiv.org/abs/2410.22284) _[M. A. Ayub]_(https://scholar.google.com/citations?user=xRr78bIAAAAJ) and [S. Majumdar](https://scholar.google.com/citations?user=wED36bwAAAAJ), "Embedding-based classifiers can detect prompt injection attacks," Conference on Applied Machine Learning for Information Security, October 24–25, 2024, Arlington, VA, USA.
+
+---
+
 **2023**
 * [[PDF]](../files/rwarmor_authors_copy.pdf) _[M. A. Ayub](https://scholar.google.com/citations?user=xRr78bIAAAAJ)_, [A. Siraj](https://scholar.google.com/citations?user=DcXiy0AAAAAJ), [B. Filar](https://scholar.google.com/citations?user=OLcliSsAAAAJ&hl=en), and [M. Gupta](https://scholar.google.com/citations?user=acSa1DYAAAAJ&hl=en), "RWArmor: a static-informed dynamic analysis approach for early detection of cryptographic windows ransomware," International Journal of Information Security (2023), pp. 1-24.
 
