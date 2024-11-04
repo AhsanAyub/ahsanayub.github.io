@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 **2024**
-* [[PDF]](https://arxiv.org/abs/2410.22284) _[M. A. Ayub](https://scholar.google.com/citations?user=xRr78bIAAAAJ)_ and [S. Majumdar](https://scholar.google.com/citations?user=wED36bwAAAAJ), "Embedding-based classifiers can detect prompt injection attacks," Conference on Applied Machine Learning for Information Security, October 24–25, 2024, Arlington, VA, USA.
+* [[PDF]](https://arxiv.org/abs/2410.22284) [[Source]](https://github.com/AhsanAyub/malicious-prompt-detection) _[M. A. Ayub](https://scholar.google.com/citations?user=xRr78bIAAAAJ)_ and [S. Majumdar](https://scholar.google.com/citations?user=wED36bwAAAAJ), "Embedding-based classifiers can detect prompt injection attacks," Conference on Applied Machine Learning for Information Security (CAMLIS), October 24–25, 2024, Arlington, VA, USA.
 
 ---
 
